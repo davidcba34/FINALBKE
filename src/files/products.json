@@ -1,0 +1,51 @@
+[
+    {   "id": "1",
+        "name": "Mouse inalambricop",
+        "description": "mouse con coneccion a bluettoth",
+        "price": 600,
+        "stock": 59,
+        "code":"afrh",
+        "category": "per"
+    },
+    {   "id": "2",
+        "name": "Mouse inalambricop",
+        "description": "mouse con coneccion a bluettoth",
+        "price": 600,
+        "stock": 59,
+        "code":"afrh",
+        "category": "per"
+    },
+    {   "id": "3",
+        "name": "Mouse inalambricop",
+        "description": "mouse con coneccion a bluettoth",
+        "price": 600,
+        "stock": 59,
+        "code":"afrh",
+        "category": "per"
+    },
+    {   "id": "4",
+        "name": "Mouse inalambricop",
+        "description": "mouse con coneccion a bluettoth",
+        "price": 600,
+        "stock": 59,
+        "code":"afrh",
+        "category": "per"
+    },
+    {   "id": "5",
+        "name": "Mouse inalambricop",
+        "description": "mouse con coneccion a bluettoth",
+        "price": 600,
+        "stock": 59,
+        "code":"afrh",
+        "category": "per"
+    },
+    {   "id": "6",
+        "name": "Mouse inalambricop",
+        "description": "mouse con coneccion a bluettoth",
+        "price": 600,
+        "stock": 59,
+        "code":"afrh",
+        "category": "per"
+    }
+
+]
